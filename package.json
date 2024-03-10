@@ -1,5 +1,5 @@
 {
-  "name": "vercel-repro",
+  "name": "vercel-nextjs-repro",
   "version": "0.0.0",
   "private": true,
   "scripts": {
